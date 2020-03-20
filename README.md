@@ -11,7 +11,7 @@
 </p>
 
 ## Features
-Utilização de artifícios de localização com a utilização de:
+Utilização os seguintes artifícios:
 
 -  **HTML**
 -  **JavaScript**
