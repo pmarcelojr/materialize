@@ -1,7 +1,8 @@
-Estudo Materialize
+# Materialize
+
 </h1>
 
-<p align="center"> 🚀 Dev: Aplicação desenvolvida utilizando Get Started feito pelo Marcelo Santos.
+<p align="center"> 🚀 Aplicação desenvolvida utilizando Get Started feito pelo Marcelo Santos.
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -12,9 +13,9 @@ Estudo Materialize
 ## Features
 Utilização de artifícios de localização com a utilização de:
 
-- ⚛️ **HTML**
-- ⚛️ **JavaScript**
-- 💹 **CSS**
+-  **HTML**
+-  **JavaScript**
+-  **CSS**
 
 ## Projeto
 
